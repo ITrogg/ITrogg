@@ -9,7 +9,7 @@
 </div>
 <p align="left">My name is Imanol Deleporte and I'm a full-stack web developer in training, from Lille, France.</p>
 <h2 align="left">About me</h2>
-<p align="left">👨🏽‍💻 I’m currently working on <a href="https://github.com/WildCodeSchool-2024-02/JS-RMT-julien-TeamA-Project2" target="_blank">Wilder Movies Club</a><br>🌱 I’m currently learning React and Express<br>👯 I’m looking to collaborate on anything!<br>💬 Ask me about anything, I am happy to help.<br>⚡ Fun fact: I'm afraid of silence, can't live without music.</p>
+<p align="left">👨🏽‍💻 I’m currently working on <a href="https://github.com/WildCodeSchool-2024-02/JS-RMT-Julien-Externatic-P3" target="_blank">Externatic</a><br>🌱 I’m currently learning React and Express<br>👯 I’m looking to collaborate on anything!<br>💬 Ask me about anything, I am happy to help.<br>⚡ Fun fact: I'm afraid of silence, can't live without music.</p>
 <h2 align="left">🔧 Technical Skills</h2>
 <h3 align="left">Languages and Markup:</h3>
 <div align="left">
