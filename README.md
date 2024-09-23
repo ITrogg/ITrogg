@@ -72,7 +72,7 @@ My name is Imanol Deleporte, and I'm a full-stack web developer from Lille, Fran
 
 A social platform for sharing concert events. This project aims to connect music lovers by allowing them to discover, share, and attend live events together. Users can create profiles, post events, and interact with others in a vibrant community focused on live music experiences.
 
-### [Externatic](https://github.com/ITrogg/Portfolio)
+### [Externatic](https://github.com/WildCodeSchool-2024-02/JS-RMT-Julien-Externatic-P3)
 
 A recruitment agency platform designed to streamline the hiring process. It provides tools for both recruiters and job seekers, facilitating job postings, applications, and candidate tracking. The platform aims to improve communication between recruiters and candidates, ensuring a smoother recruitment experience for everyone involved.
 
