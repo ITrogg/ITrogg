@@ -4,57 +4,67 @@ My name is Imanol Deleporte, and I'm a full-stack web developer from Lille, Fran
 
 ## About me
 
-👨🏽‍💻 I’m currently working on <a href="https://github.com/ITrogg/StageLink" target="_blank">StageLink</a>
-🌱 I’m currently learning React and Express
-👯 I’m looking to collaborate on anything!
-💬 Ask me about anything, I am happy to help.
-⚡ Fun fact: I'm afraid of silence, can't live without music.
+-👨🏽‍💻 I’m currently working on <a href="https://github.com/ITrogg/StageLink" target="_blank">StageLink</a>
+-🌱 I’m currently learning React and Express
+-👯 I’m looking to collaborate on anything!
+-💬 Ask me about anything, I am happy to help.
+-⚡ Fun fact: I'm afraid of silence, can't live without music.
 
 ## 🔧 Technical Skills
 
 ### **Languages & Markup:**
 
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
-- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) **TypeScript**
-- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) **PHP**
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**
-- ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) **C**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" /> **JavaScript**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /> **TypeScript**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" /> **PHP**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" /> **HTML5**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" /> **CSS3**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" /> **C**
+</div>
 
 ### **Frameworks & Libraries:**
 
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**
-- ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express**
-- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**
-- ![Symfony](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg) **Symfony**
-- ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) **Bootstrap**
-- ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg) **Sass**
-- ![Bulma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg) **Bulma**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" /> **React**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express logo" /> **Express**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" /> **Node.js**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="Symfony logo" /> **Symfony**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" /> **Bootstrap**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass logo" /> **Sass**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="Bulma logo" /> **Bulma**
+</div>
 
 ### **Tools & Platforms:**
 
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker**
-- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **MySQL**
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub**
-- ![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg) **NPM**
-- ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) **VSCode**
-- ![Trello](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg) **Trello**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" /> **Docker**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" /> **MySQL**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" /> **Git**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" /> **GitHub**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo" /> **NPM**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" /> **VSCode**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="Trello logo" /> **Trello**
+</div>
 
 ### **Design Tools & Prototyping:**
 
-- ![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg) **Canva**
-- ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) **Figma**
-- ![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg) **Photoshop**
-- ![Illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg) **Illustrator**
-- ![GIMP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg) **GIMP**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" /> **Canva**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" /> **Figma**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop logo" /> **Photoshop**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator logo" /> **Illustrator**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="GIMP logo" /> **GIMP**
+</div>
 
 ### **Hardware & Multimedia:**
 
-- ![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg) **Arduino**
-- ![Raspberry Pi](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg) **Raspberry Pi**
-- ![After Effects](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg) **After Effects**
-- ![Premiere Pro](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg) **Premiere Pro**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino logo" /> **Arduino**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="Raspberry Pi logo" /> **Raspberry Pi**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="After Effects logo" /> **After Effects**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="Premiere Pro logo" /> **Premiere Pro**
+</div>
 
 ## 🚀 Projects
 
