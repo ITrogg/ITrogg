@@ -4,11 +4,11 @@ My name is Imanol Deleporte, and I'm a full-stack web developer from Lille, Fran
 
 ## About me
 
--👨🏽‍💻 I’m currently working on <a href="https://github.com/ITrogg/StageLink" target="_blank">StageLink</a>
--🌱 I’m currently learning React and Express
--👯 I’m looking to collaborate on anything!
--💬 Ask me about anything, I am happy to help.
--⚡ Fun fact: I'm afraid of silence, can't live without music.
+- 👨🏽‍💻 I’m currently working on <a href="https://github.com/ITrogg/StageLink" target="_blank">StageLink</a>
+- 🌱 I’m currently learning React and Express
+- 👯 I’m looking to collaborate on anything!
+- 💬 Ask me about anything, I am happy to help.
+- ⚡ Fun fact: I'm afraid of silence, can't live without music.
 
 ## 🔧 Technical Skills
 
@@ -30,8 +30,8 @@ My name is Imanol Deleporte, and I'm a full-stack web developer from Lille, Fran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="Symfony logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" alt="Bulma logo" />
 </div>
 
@@ -42,7 +42,6 @@ My name is Imanol Deleporte, and I'm a full-stack web developer from Lille, Fran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height=30 alt="Postman logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="Trello logo" />
