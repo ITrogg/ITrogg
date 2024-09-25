@@ -5,10 +5,10 @@ My name is Imanol Deleporte, and I'm a full-stack web developer from Lille, Fran
 ## About me
 
 - 👨🏽‍💻 I’m currently working on <a href="https://github.com/ITrogg/StageLink" target="_blank">StageLink</a>
-- 🌱 I’m currently learning React and Express
+- 🌱 I’m currently learning Php
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything, I am happy to help.
-- ⚡ Fun fact: I'm afraid of silence, can't live without music.
+- ⚡ Fun fact: Can't live without music.
 
 ## 🔧 Technical Skills
 
